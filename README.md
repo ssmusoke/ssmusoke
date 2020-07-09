@@ -1,4 +1,4 @@
-# Stephen Senkomago Musoke
+# Stephen Senkomago Musoke 🇺🇬
 
 I am a self taught software engineer, and technologist at heart who is focused the health technology space, currently leading the architecture, design, development and rollout of a national Electronic Medical Records system for Uganda, UgandaEMR, based on OpenMRS.
 
@@ -17,13 +17,26 @@ A personal goal in this journey is working towards having women as equal partici
 4. Stack Overflow - https://stackoverflow.com/users/200120/stephen-senkomago-musoke 
 
 ## Things that I do 
-1. OpenMRS Customization and extension 
-2. PHP web application development with Laravel (& Symfony) 
-3. API design and development 
 
-## What makes me happy 
+1. OpenMRS Customization and extension 
+2. Health Information Exchange (HIE) integration
+3. PHP web application development with Laravel (& Symfony) 
+4. API design and development 
+5. Technical documentation - use cases, user stories, requirements 
+
+## What makes me happy :coffee: and :tea: and :goat:
+
 1. OpenSource - communities, knowlege sharing
 2. API driven design and development 
 3. Test Driven Development 
-4. Data modeling, design and integration 
-5. Solving architectural problems 
+4. Data modeling, database design and data integration challenges 
+5. Solving architectural problems with code 
+6. AWS Service setup and configuration - S3, EC2, DynamoDB, SES, Cognito, API Gateway, ECS 
+7. Continous Delivery of software 
+
+## What am I learning 
+1. Utility based CSS design with Tailwind CSS 
+2. Android development 
+3. Fundamentals of Epidemiology 
+4. DHIS2 
+5. Laravel Package Development (https://laravelpackage.training/) and Eloquent Performance Patterns (https://eloquent-course.reinink.ca/)
