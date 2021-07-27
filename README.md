@@ -20,7 +20,7 @@ A personal goal in this journey is working towards having women as equal partici
 
 1. OpenMRS Customization and extension 
 2. Health Information Exchange (HIE) integration
-3. PHP web application development with Laravel (& Symfony) 
+3. PHP web application development with Laravel 
 4. API design and development 
 5. Technical documentation - use cases, user stories, requirements 
 
