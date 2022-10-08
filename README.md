@@ -45,3 +45,4 @@ A personal goal in this journey is working towards having women as equal partici
 1. Voice of the Elephant (PHP) -  https://ssmusoke.com/2020/06/23/voice-of-the-elephpant-podcast-php-technology-journey-opensource-java/
 2. Public Code Podcast - https://youtu.be/REFqx1BjiVQ
 3. 360 Mentor - https://mobile.twitter.com/i/spaces/1BdGYwMEWRBxX
+4. Open Source Kampala discussion on African Software Developers - https://youtu.be/V6blPun_mcM?t=41
