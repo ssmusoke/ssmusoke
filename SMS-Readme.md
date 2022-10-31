@@ -46,5 +46,7 @@ As Tech Lead, I am measured by:
 ### Personality Summary
 
 1. Myers Briggs ENTJ - extroverted, love lists, enjoy plans, focused on facts 
-
 2. Strength Finder - Communicator, Includer, Connected, Learner, Arranger 
+
+### Links 
+1. This README - [https://github.com/ssmusoke/ssmusoke/blob/master/SMS-Readme.md]
