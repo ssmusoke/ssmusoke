@@ -18,31 +18,33 @@ A personal goal in this journey is working towards having women as equal partici
 
 ## Things that I do 
 
-1. OpenMRS Customization and extension 
-2. Health Information Exchange (HIE) integration
+1. Health Informatics - Health Information Exchange (HIE) integration, Data Integration and ETL for Disease Surveillance and reporting
+2. Data analysis and visualization
 3. PHP web application development with Laravel 
 4. API design and development 
-5. Technical documentation - use cases, user stories, requirements 
+5. Technical documentation - use cases, user stories, requirements
 
-## What makes me happy :coffee: and :tea: and :goat:
 
-1. OpenSource - communities, knowlege sharing
+## What makes me happy :tea: and :goat:
+
+1. OpenSource - community building and growth, knowlege sharing, solving on-the ground problems
 2. API driven design and development 
 3. Test Driven Development 
 4. Data modeling, database design and data integration challenges 
 5. Solving architectural problems with code 
-6. AWS Service setup and configuration - S3, EC2, DynamoDB, SES, Cognito, API Gateway, ECS 
-7. Continous Delivery of software 
+6. Cloud Service setup and configuration - have AWS experience looking to grow my GCP
+7. Continous Delivery of software - tools, practices and working with teams to get there
 
 ## What am I learning 
 1. Utility based CSS design with Tailwind CSS 
-2. Android development 
-3. Fundamentals of Epidemiology 
-4. DHIS2 
-5. Laravel Package Development (https://laravelpackage.training/) and Eloquent Performance Patterns (https://eloquent-course.reinink.ca/)
+2. Android development with a focus on cross platform apps both for Android and IOS
+3. Python for web development and data wrangling
+4. Microservices
 
 ## Podcasts where I have been a guest 
 1. Voice of the Elephant (PHP) -  https://ssmusoke.com/2020/06/23/voice-of-the-elephpant-podcast-php-technology-journey-opensource-java/
 2. Public Code Podcast - https://youtu.be/REFqx1BjiVQ
-3. 360 Mentor - https://mobile.twitter.com/i/spaces/1BdGYwMEWRBxX
+3. 360 Mentor
+- My Life Journey and Perspectives - https://mobile.twitter.com/i/spaces/1BdGYwMEWRBxX
+- Uganda June 2023 Budget review by regular people - https://twitter.com/i/spaces/1lPKqBLjZRQGb
 4. Open Source Kampala discussion on African Software Developers - https://youtu.be/V6blPun_mcM?t=41
