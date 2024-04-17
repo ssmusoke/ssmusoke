@@ -1,10 +1,10 @@
 # Stephen Senkomago Musoke 🇺🇬
 
-I am a self taught software engineer, and technologist at heart who is focused the health technology space, currently leading the architecture, design, development and rollout of a national Electronic Medical Records system for Uganda, UgandaEMR, based on OpenMRS.
+I am a self-taught software engineer, and technologist at heart who is currently focused on the financial services space working with a startup team within a company building digital payments and collections for small and medium enterprises across Africa. Previously I was in the health technology space, leading the architecture, design, development and rollout of a national Electronic Medical Records system for Uganda, UgandaEMR, based on OpenMRS as well as supporting the build-out of disease surveillance and response initiatives 
 
-I leverage my entrepreneurial experiences and exposure to drive the adoption of technology to achieve business goals whether bringing new products & services to the market, improving delivery of their existing portfolios or reaching out to new unknown areas.
+I leverage my entrepreneurial experiences and exposure to drive the adoption of technology to achieve business goals whether bringing new products & services to the market, improving the delivery of their existing portfolios, or reaching out to new unknown areas.
 
-I am passionate about growing the technology community in Uganda and on the Africa continent through “Coded in Africa, for Africans by Africans” through use of opensource technologies. 
+I am passionate about growing the technology community in Uganda and on the African continent through “Coded in Africa, for Africans by Africans” through the use of open-source technologies. 
 
 A personal goal in this journey is working towards having women as equal participants in the African technology revolution
 
@@ -27,19 +27,19 @@ A personal goal in this journey is working towards having women as equal partici
 
 ## What makes me happy :tea: and :goat:
 
-1. OpenSource - community building and growth, knowlege sharing, solving on-the ground problems
-2. API driven design and development 
+1. OpenSource - community building and growth, knowledge sharing, solving on-the-ground problems
+2. API-driven design and development 
 3. Test Driven Development 
-4. Data modeling, database design and data integration challenges 
+4. Data modeling, database design, and data integration challenges and solutions 
 5. Solving architectural problems with code 
-6. Cloud Service setup and configuration - have AWS experience looking to grow my GCP
+6. Cloud Service setup and configuration - have AWS experience looking to grow my GCP skills along with DevOps 
 7. Continous Delivery of software - tools, practices and working with teams to get there
 
 ## What am I learning 
-1. Utility based CSS design with Tailwind CSS 
-2. Android development with a focus on cross platform apps both for Android and IOS
+1. Utility-based CSS design with Tailwind CSS 
+2. Android development with a focus on cross-platform apps both for Android and IOS
 3. Python for web development and data wrangling
-4. Microservices
+4. Microservices and cloud-based deployments 
 
 ## Podcasts where I have been a guest 
 1. Voice of the Elephant (PHP) -  https://ssmusoke.com/2020/06/23/voice-of-the-elephpant-podcast-php-technology-journey-opensource-java/
@@ -48,3 +48,4 @@ A personal goal in this journey is working towards having women as equal partici
 - My Life Journey and Perspectives - https://mobile.twitter.com/i/spaces/1BdGYwMEWRBxX
 - Uganda June 2023 Budget review by regular people - https://twitter.com/i/spaces/1lPKqBLjZRQGb
 4. Open Source Kampala discussion on African Software Developers - https://youtu.be/V6blPun_mcM?t=41
+5. Lived Quality - Cultivating Excellence in Everyday Life through Mastery - https://www.youtube.com/watch?v=FJplhWnsXaY
