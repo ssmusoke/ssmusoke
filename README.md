@@ -49,3 +49,4 @@ A personal goal in this journey is working towards having women as equal partici
 - Uganda June 2023 Budget review by regular people - https://twitter.com/i/spaces/1lPKqBLjZRQGb
 4. Open Source Kampala discussion on African Software Developers - https://youtu.be/V6blPun_mcM?t=41
 5. Lived Quality - Cultivating Excellence in Everyday Life through Mastery - https://www.youtube.com/watch?v=FJplhWnsXaY
+6. Pycon 2023 - https://www.youtube.com/watch?v=-xRWy2Pw4cE
