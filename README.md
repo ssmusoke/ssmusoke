@@ -50,3 +50,4 @@ A personal goal in this journey is working towards having women as equal partici
 4. Open Source Kampala discussion on African Software Developers - https://youtu.be/V6blPun_mcM?t=41
 5. Lived Quality - Cultivating Excellence in Everyday Life through Mastery - https://www.youtube.com/watch?v=FJplhWnsXaY
 6. Pycon 2023 - https://www.youtube.com/watch?v=-xRWy2Pw4cE
+7. How to give that killer presentation - Pycon 2024 Speaker Prep - https://www.youtube.com/live/IL3XT_m2Sn0?si=hbybmeMtYYtl1FJH&t=955
