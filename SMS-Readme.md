@@ -1,24 +1,25 @@
-# Tech Lead README
+# Engineering Lead README
 **Written By:** Stephen Senkomago Musoke aka *SMS* aka *Soki*
-**Last Update:** 21 June 2023
+**Last Update:** 31 March 2025
 
 I am putting this down as a guide to working with me, helping me bring out the best in you at the same time bringing out the best in me
 
 ## My role 
 
-As Tech Lead, I am measured by:
+As Engineering Lead, I am measured by:
 1. The performance, ease of use and cost of the technology stack that we are using across our products
 2. The quality of software products that we develop, deploy, maintain, evolve and operate
 3. How smooth our software delivery cycles are - thus adding new features, improving existing ones and quashing bugs
 4. Ability to facilitate discussions and communication between product owners, stakeholders, customers, and the team members
 5. Coaching the software delivery team to bring out their best
+6. How happy the customers of the products that we use are 
 
 ## What do I value most 
 
 ### Summary:
 
 1. I have an engineering process driven mind thus want to have design, requirements, and guides for the journey, fine tuned to control the wild chaotic exciteable me
-2. I understand that making a plan and following a plan are two differnt things, so
+2. I understand that making a plan and following a plan are two differnt things, 
 2. I am motivated to make the world a better place for my great-grand children (whom I expect to see) to live in. 
 3. I am the eternal optimist always looking at the rainbow under the dark cloud. 
 4. I prefer to fold my sleeves, get things done and moving
@@ -29,7 +30,8 @@ As Tech Lead, I am measured by:
   * We have work to do, however we have no idea of how the journey will come together, so we have to set out a route, so that we do not get lost in the weeds. This will allow us to document the journey we are on, share progress (with our stakeholders) and allow us to pivot and adapt as we move along 
   * However sketchy a plan is, it is better than nothing
   * Writing 8 hours of code would have saved us 15 minutes of documentation 
-  * Document using the appropraite tools, hand sketch, bold pen, white board so that we can validate as we go along 
+  * Document using the appropraite tools, hand sketch, bold pen, white board so that we can validate as we go along
+  * Provide status reports (weekly or monthly) for stakeholders in English so that we are continously checking against expectations
 2. Kaizen - continous improvement. Whatever we did yesterday or last week, we can do better going forward. We should work to get better while keeping an eye on the deliverables we are working on, as that balance is key. I am hoping you can grow everyday 1% at a time 
 3. Continous learning - I am a self-taught techie, trying to learn something new everyday, knowing you will teach me something, and I hope do the same
 4. I am here to help the product get better, support you to deliver on your role and support your growth - they are not mutually exclusive 
