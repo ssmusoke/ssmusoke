@@ -39,7 +39,7 @@ A personal goal in this journey is working towards having women as equal partici
 1. Utility-based CSS design with Tailwind CSS 
 2. Android development with a focus on cross-platform apps both for Android and IOS
 3. Python for web development and data wrangling
-4. Microservices and cloud-based deployments 
+4. Building and maintaining data intensive applications 
 
 ## Podcasts where I have been a guest 
 1. Voice of the Elephant (PHP) -  https://ssmusoke.com/2020/06/23/voice-of-the-elephpant-podcast-php-technology-journey-opensource-java/
@@ -51,3 +51,4 @@ A personal goal in this journey is working towards having women as equal partici
 5. Lived Quality - Cultivating Excellence in Everyday Life through Mastery - https://www.youtube.com/watch?v=FJplhWnsXaY
 6. Pycon 2023 - https://www.youtube.com/watch?v=-xRWy2Pw4cE
 7. How to give that killer presentation - Pycon 2024 Speaker Prep - https://www.youtube.com/live/IL3XT_m2Sn0?si=hbybmeMtYYtl1FJH&t=955
+8. ﻿﻿Navigating Tech's Choppy Waters | Survival Guide for Developers - January 2025 - https://www.youtube.com/watch?v=Hqy0MlttF74
