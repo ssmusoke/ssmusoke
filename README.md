@@ -24,7 +24,6 @@ A personal goal in this journey is working towards having women as equal partici
 4. API design and development 
 5. Technical documentation - use cases, user stories, requirements
 
-
 ## What makes me happy :tea: and :goat:
 
 1. OpenSource - community building and growth, knowledge sharing, solving on-the-ground problems
@@ -39,7 +38,10 @@ A personal goal in this journey is working towards having women as equal partici
 1. Utility-based CSS design with Tailwind CSS 
 2. Android development with a focus on cross-platform apps both for Android and IOS
 3. Python for web development and data wrangling
-4. Building and maintaining data intensive applications 
+4. Building and maintaining data intensive applications
+
+## How to work with me as an Engineering Lead 
+https://github.com/ssmusoke/ssmusoke/blob/master/SMS-Readme.md
 
 ## Podcasts where I have been a guest 
 1. Voice of the Elephant (PHP) -  https://ssmusoke.com/2020/06/23/voice-of-the-elephpant-podcast-php-technology-journey-opensource-java/
