@@ -52,6 +52,9 @@ As Engineering Lead, I am measured by:
 5. I am a big fan of process, which is repeatable to yield similar results, once that happens then we can start tweaking it to get improvements 
 6. I am slowing down so I try to find ways to manage my energy levels to maximize output even if I am the original energizer bunny 
 
+### How to work with me as an Engineering Lead 
+https://github.com/ssmusoke/ssmusoke/blob/master/SMS-Readme.md
+
 ### Personality Summary
 
 1. Myers Briggs ENTJ - extroverted, love lists, enjoy plans, focused on facts 
