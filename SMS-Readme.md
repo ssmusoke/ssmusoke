@@ -58,4 +58,4 @@ As Engineering Lead, I am measured by:
 2. Strength Finder - Communicator, Includer, Connected, Learner, Arranger
 
 ### Links 
-1. This README - [https://github.com/ssmusoke/ssmusoke/blob/master/SMS-Readme.md]
+1. This README - [https://github.com/ssmusoke/ssmusoke/blob/master/SMS-Readme.md](https://github.com/ssmusoke/ssmusoke/blob/master/SMS-Readme.md)
